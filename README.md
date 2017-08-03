@@ -5,6 +5,12 @@
 撩我
 ![撩我](/app/images/wechat.png)
 
+
+```javascript
+$(document).ready(function () {
+    alert('我是一个JavaScript developer');
+});
+```
 * Eric
 * Lydia
 * A;ex
