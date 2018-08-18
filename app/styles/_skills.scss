@@ -13,4 +13,13 @@
     border-radius: .25rem;
     background-color: $silver;
   }
+  span.title {
+    display: inline-block;
+    margin: .125rem;
+    padding: .375rem;
+    font-weight: normal;
+    color: #000;
+    font-size: 20px;
+    background: none;
+  }
 }
